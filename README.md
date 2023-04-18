@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mags1317 your friendly developer
+- 👋 Hi, I'm @mags1317, a science and sports enthusiast bringing my passion to the world of code through my GitHub account.
 - 👀 I’m interested in science, sports and knowledge sharing.
 - 🌱 I’m currently learning cypress testing, backend automated testing in .net, leading, and some other interesting topics.
 - 💞️ I’m looking to collaborate on AI projects, and any project that seeks to have a good social impact.
